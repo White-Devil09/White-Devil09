@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Newbie to TECH domain.
 
-## $ Education
+##  Education
 
 <details>
 <summary>AI, <a href="https://iith.ac.in/">IIT Hyderabad</a> undergrad 👨‍🎓</summary>
