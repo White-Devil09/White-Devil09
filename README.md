@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Son of Devil
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=White-Devil09&show_icons=true&theme=radical)
