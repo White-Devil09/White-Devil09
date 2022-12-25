@@ -9,7 +9,7 @@
 ##  Education
 
 <details>
-<summary>AI, <a href="https://iith.ac.in/">IIT Hyderabad</a> undergrad 👨‍🎓</summary>
+  <summary> <a href="https://ai.iith.ac.in/">Artificial Intelligence</a>, <a href="https://iith.ac.in/">IIT Hyderabad</a> undergrad 👨‍🎓</summary>
 <ul>
   <li>Bachelor of Technology in Artificial Intelligence. (2021 - 2025)</li>
 </ul>
