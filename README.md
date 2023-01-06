@@ -1,4 +1,4 @@
-### Hi Buddy, I'm <a href="https://white-devil09.github.io/">Bhanu</a> 👋
+### Hi Buddy, I'm <a href="">Bhanu</a> 👋
 
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on App and web dev.
@@ -14,8 +14,6 @@
   <li>Bachelor of Technology in Artificial Intelligence. (2021 - 2025)</li>
 </ul>
 </details>
-
-Visit my [website](https://white-devil09.github.io/) to know more about me.
 
 ## Languages  and Tools.
 
