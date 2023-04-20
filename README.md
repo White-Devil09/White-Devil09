@@ -35,6 +35,4 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=White-Devil09&show_icons=true&theme=radical)
-
 
