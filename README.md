@@ -1,8 +1,8 @@
 ### Hi Buddy, I'm <a href="https://github.com/White-Devil09">Bhanu</a> 👋
 
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Flutter and love Deep Learning.
 - 👯 I’m looking to collaborate on App and web dev.
-- 🤔 I’m looking for help with Flutter.
+- 🤔 I’m looking for help with Flutter and PyTorch for (NLP).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Newbie to TECH domain.
 
